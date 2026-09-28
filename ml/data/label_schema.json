@@ -1,0 +1,12 @@
+{
+  "category": ["dress", "women", "men", "kids", "ethnic", "genz"],
+  "color": ["white", "red", "green", "yellow", "black", "blue", "pink", "coral", "beige", "brown", "purple", "orange", "gold"],
+  "fabric": ["lace", "chiffon", "satin", "cotton", "knit", "linen", "georgette", "velvet", "silk", "denim", "tulle"],
+  "pattern": ["solid", "floral", "printed", "embellished", "striped"],
+  "neckline": ["off-shoulder", "round", "cowl", "v-neck", "square", "collar", "sweetheart", "open"],
+  "sleeve": ["short", "sleeveless", "half", "puff", "full", "long", "three-quarter"],
+  "length": ["mini", "maxi", "midi", "knee", "floor", "gown", "cropped"],
+  "fit": ["a-line", "flared", "bodycon", "wrap", "regular", "tiered", "relaxed", "straight"],
+  "occasion": ["casual", "party", "office", "vacation", "festive", "wedding", "date", "all"],
+  "style": ["breezy", "glamorous", "edgy", "minimal", "feminine", "ethnic", "festive", "casual"]
+}

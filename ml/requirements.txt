@@ -1,0 +1,9 @@
+torch>=2.2
+torchvision>=0.17
+pillow
+numpy
+pyyaml
+tqdm
+scikit-learn
+fastapi
+uvicorn

@@ -1,0 +1,10 @@
+backbone: resnet50
+image_size: 224
+batch_size: 32
+lr: 3.0e-4
+epochs: 15
+weight_decay: 1.0e-4
+num_workers: 4
+# Heads with < min_labeled_examples labeled samples will be initialized but
+# NOT trained — inference returns "unknown" for them until labels are added.
+min_labeled_examples: 200
